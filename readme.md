@@ -26,8 +26,11 @@ python sync_folders.py <source_folder> <replica_folder> <sync_interval_minutes> 
 Replace <source_folder>, <replica_folder>, <sync_interval_minutes>, and <log_file> with the appropriate values.
 
 <source_folder>: The path to the source folder.
+
 <replica_folder>: The path to the replica folder.
+
 <sync_interval_minutes>: The synchronization interval in minutes.
+
 <log_file>: The path to the log file for logging synchronization activities.
 
 Tests
