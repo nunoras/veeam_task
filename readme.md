@@ -14,7 +14,7 @@ Sync Folders is a Python script that synchronizes the contents of two folders. I
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sync-folders.git
+git clone https://github.com/nunoras/sync-folders.git
 ```
 
 Usage
