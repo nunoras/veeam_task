@@ -17,7 +17,7 @@ Clone the repository:
 git clone https://github.com/nunoras/sync-folders.git
 ```
 
-Usage
+## Usage
 Run the script with the following command:
 
 ```bash
@@ -33,7 +33,7 @@ Replace <source_folder>, <replica_folder>, <sync_interval_minutes>, and <log_fil
 
 <log_file>: The path to the log file for logging synchronization activities.
 
-Tests
+## Tests
 To run the unit tests, use the following command:
 
 ```bash
